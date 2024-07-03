@@ -1,2 +1,2 @@
 # ShinmyoumaruBizarreAdventure
-随便写写
+跑酷+打怪
